@@ -19,3 +19,9 @@ if (x===2) {
 } else {
     console.log("this condition is not identical");
 }
+//not equal to operstor
+if (x!=2) {
+    console.log("this condition is true");
+} else {
+    console.log("this condition is false");
+}
