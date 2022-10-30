@@ -1,5 +1,7 @@
 // equal to operator
-if (x == 2) {
+x=3
+if (x == 2){
+    console.log(x);
     // block of code to be executed...
 }
 
