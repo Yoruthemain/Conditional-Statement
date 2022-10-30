@@ -12,4 +12,10 @@ if (x==3) {
 } else {
     console.log("this condtion is false");
 }
-,
+//Hi sir this is identical operator
+if (x===2) {
+    console.log("this condition is identitical");
+    
+} else {
+    console.log("this condition is not identical");
+}
