@@ -53,7 +53,7 @@ if (x>=2) {
 } else {
     console.log("This conditon returns false if first value is lesser than second value ");
 }
-
+// lesser than or equal to operator
 if (x<=1) {
     console.log("if the first value is lesser or equal to the second value ");
     
