@@ -61,3 +61,20 @@ if (x<=1) {
     console.log("if the first value is greater than the second value");
     
 }
+//Working with tenary operators
+let age=3
+let food=age>10? "stop taking milk": "keep taking milk"
+console.log(food);
+
+let gift=age>15? "No gifts": "Yes gifts"
+console.log(gift);
+
+//logical and operator
+let height="short"
+let hair_length="long"
+let pencil=height=="tall"&&hair_length=="long"? "Give them a gift": "No gift"
+console.log(pencil);
+
+//Logical or operator
+ pencil=height=="tall"||hair_length=="long"? "Give them gift": "No gift"
+ console.log(pencil);
